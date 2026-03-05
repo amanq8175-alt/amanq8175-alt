@@ -80,6 +80,14 @@ Building smooth UI animations, page transitions, and interactive user experience
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amanq8175-alt&layout=compact&theme=tokyonight)
 
+React.js
+
+Next.js
+
+TypeScript
+
+TailwindCSS
+
 ---
 
 ## 👀 Profile Visitors
