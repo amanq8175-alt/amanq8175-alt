@@ -23,7 +23,7 @@
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
 
-## 🛠️ Tech Stack & Skills
+## 🛠️Skills
 
 ### 🌐 Languages
 
