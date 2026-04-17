@@ -17,8 +17,7 @@ Hello! I'm **Aman Qureshi**, a passionate **Frontend Developer** who loves turni
 
 - 🚀 **1+ Year of Experience** in the frontend ecosystem.
 - 🎓 Education from **Sindh University**.
-- 💡 Focused on **React**, **Next.js**, and **Tailwind CSS**.
-- 🌱 Constant learner—currently diving deep into **TypeScript** and **Advanced State Management**.
+- 💡 Focused on **React**,  **Typescript**,**Next.js**, and **Tailwind CSS**.
 - 🎯 Goal: To build products that bridge the gap between design and functionality.
 
 ---
