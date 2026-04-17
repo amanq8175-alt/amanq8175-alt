@@ -142,6 +142,3 @@ TailwindCSS
   <a href="https://instagram.com/YOUR_INSTAGRAM"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
 </p>
 
-## 👀 Profile Visitors
-
-![Visitor Count](https://komarev.com/ghpvc/?username=amanq8175-alt&label=Profile%20Views&color=blue&style=flat)
