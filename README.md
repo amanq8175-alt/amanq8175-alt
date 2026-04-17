@@ -1,4 +1,19 @@
+<h1 align="center">👋 Hi, I'm Aman Qureshi</h1>
 
+<h3 align="center">🚀 Frontend Developer | 💻 React Enthusiast | 🎨 UI/UX Lover</h3>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Hi+I'm+Aman+Qureshi;Frontend+Developer;I+build+modern+responsive+web+apps;React+%7C+JavaScript+%7C+Tailwind+CSS;Clean+UI+%7C+Smooth+UX+%7C+Modern+Design" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=your-username&theme=radical&no-frame=true&no-bg=true&margin-w=4" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=radical" width="48%" />
+</p>
  Hi 👋 I'm Aman Qureshi
 
 <p align="center">
