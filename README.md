@@ -1,3 +1,6 @@
+![Aman's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical)
+
 # Hi 👋 I'm Aman Qureshi
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=28&color=00F7FF&center=true&vCenter=true&width=800&lines=Frontend+Developer;React.js+Developer;TypeScript+Developer;TailwindCSS+Expert;Building+Modern+Web+Apps)](https://git.io/typing-svg)
