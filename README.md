@@ -1,3 +1,113 @@
+# 👋 Hi, I'm Aman Qureshi
+
+### 💻 Frontend Developer  
+🚀 Passionate about building modern, responsive, and user-friendly web applications
+
+---
+
+## 🧑‍💻 About Me
+
+I'm a dedicated Frontend Developer focused on crafting clean, responsive, and interactive user interfaces. I enjoy turning ideas into real-world web applications using modern technologies.
+
+- 🌱 Currently improving my skills in **React & advanced JavaScript**
+- 💡 Love solving real-world problems through code
+- 🎯 Goal: Become a **Full-Stack Developer** and contribute to **open-source projects**
+- ⚡ Strong believer in continuous learning and consistency
+
+---
+
+## 🛠️ Skills & Technologies
+
+### 🚀 Languages
+![HTML](https://img.shields.io/badge/HTML5-orange?style=for-the-badge&logo=html5)
+![CSS](https://img.shields.io/badge/CSS3-blue?style=for-the-badge&logo=css3)
+![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript)
+
+### ⚛️ Frameworks & Libraries
+![React](https://img.shields.io/badge/React-black?style=for-the-badge&logo=react)
+![Next.js](https://img.shields.io/badge/Next.js-gray?style=for-the-badge&logo=next.js)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-blue?style=for-the-badge&logo=tailwindcss)
+
+### 🧰 Tools
+![Git](https://img.shields.io/badge/Git-red?style=for-the-badge&logo=git)
+![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)
+![VS Code](https://img.shields.io/badge/VSCode-blue?style=for-the-badge&logo=visualstudiocode)
+![Figma](https://img.shields.io/badge/Figma-purple?style=for-the-badge&logo=figma)
+
+---
+
+## 📂 Projects
+
+### 🔹 Modern Login Page
+- Clean and responsive login UI with modern design
+- **Tech Stack:** HTML, CSS, JavaScript  
+- 🔗 Live Demo: https://your-live-link.com  
+- 💻 GitHub: https://github.com/your-username/login-page  
+
+---
+
+### 🔹 Portfolio Website
+- Personal portfolio to showcase projects and skills
+- **Tech Stack:** HTML, CSS, JavaScript  
+- 🔗 Live Demo: https://your-live-link.com  
+- 💻 GitHub: https://github.com/your-username/portfolio  
+
+---
+
+### 🔹 React Todo App
+- Task management app with dynamic UI
+- **Tech Stack:** React, Tailwind CSS  
+- 🔗 Live Demo: https://your-live-link.com  
+- 💻 GitHub: https://github.com/your-username/todo-app  
+
+---
+
+### 🔹 Business Landing Page
+- Responsive landing page for a company
+- **Tech Stack:** HTML, CSS, JavaScript  
+- 🔗 Live Demo: https://your-live-link.com  
+- 💻 GitHub: https://github.com/your-username/landing-page  
+
+---
+
+## 📊 GitHub Stats
+
+![Aman's GitHub stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=radical)
+
+![GitHub Streak](https://streak-stats.demolab.com/?user=your-username&theme=radical)
+
+---
+
+## 📚 Learning & Goals
+
+- 📖 Currently learning: **Advanced React, TypeScript**
+- 🚀 Next step: **Next.js & Backend Development**
+- 🌍 Goal: Contribute to **Open Source Projects**
+- 💼 Long-term: Become a **Full-Stack Developer**
+
+---
+
+## 🌐 Connect With Me
+
+- 💼 LinkedIn: https://linkedin.com/in/your-profile  
+- 💻 GitHub: https://github.com/your-username  
+- 📧 Email: aman@example.com  
+
+---
+
+## 😄 Fun Fact
+
+I enjoy turning simple ideas into real-world projects — and yes, I sometimes spend hours fixing a bug… only to realize it was a missing semicolon 😅
+
+---
+
+⭐ *If you like my work, feel free to star my repositories and connect with me!*
+
+
+
+
 # <p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=00d2ff&height=250&section=header&text=Aman%20Qureshi&fontSize=80&animation=fadeIn&fontAlignY=35" width="100%" /> </p>
 
 <p align="center">
