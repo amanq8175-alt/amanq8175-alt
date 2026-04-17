@@ -1,5 +1,4 @@
-
-                                     Hi 👋 I'm Aman Qureshi
+  Hi 👋 I'm Aman Qureshi
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=38B2AC&center=true&vCenter=true&width=600&lines=Frontend+Developer;React+%26+Next.js+Specialist;Building+Modern+%26+Responsive+Web;1%2B+Year+of+Professional+Experience" />
@@ -51,30 +50,6 @@ Hello! I'm **Aman Qureshi**, a passionate **Frontend Developer** who loves turni
   <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
 </p>
 
----
-
-## 📈 My GitHub Activity
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
-## 🏆 Top Projects
-
-| Project | Description | Tech Stack | Links |
-| :--- | :--- | :--- | :--- |
-| **B2B E-Commerce** | A full-scale, responsive B2B platform with 100% working workflow. | React, Tailwind, Redux | [Live Demo 🚀](#) \| [Repo 📂](#) |
-| **Twitter Clone** | Real-time social media experience with dynamic UI updates. | Next.js, Firebase, Tailwind | [Live Demo 🚀](#) \| [Repo 📂](#) |
-| **Premium Portfolio** | Ultra-high-quality personal site with smooth animations. | React, Framer Motion | [Live Demo 🚀](#) \| [Repo 📂](#) |
-| **Modern Calculator** | Sleek, pixel-perfect functional calculator. | HTML, CSS, JS | [Live Demo 🚀](#) \| [Repo 📂](#) |
-
----
 
 ## ⚡ Current Learning & Goals
 - 📚 Currently mastering **Advanced TypeScript** for more robust applications.
@@ -89,20 +64,6 @@ Hello! I'm **Aman Qureshi**, a passionate **Frontend Developer** who loves turni
   <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://instagram.com/YOUR_INSTAGRAM"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
 </p>
-
----
-
-### 🗨️ Fun Fact
-> "I can debug code for hours, but I'll still Google 'how to center a div' just to be sure." 😂
-
----
-
-## 👨‍💻 About Me
-
-🚀 Passionate Frontend Developer  
-💻 Building modern web applications  
-⚡ Skilled in React.js, TypeScript, TailwindCSS  
-📚 Always learning new technologies  
 
 ---
 
@@ -186,7 +147,3 @@ TailwindCSS
 ## 👀 Profile Visitors
 
 ![Visitor Count](https://komarev.com/ghpvc/?username=amanq8175-alt&label=Profile%20Views&color=blue&style=flat)
-
-## 😄 Fun Fact
-
-I enjoy turning simple ideas into real-world projects — and yes, I sometimes spend hours fixing a bug… only to realize it was a missing semicolon 😅
