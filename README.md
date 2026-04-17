@@ -1,7 +1,5 @@
-<p align="right">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=00d2ff&style=flat-square" />
-</p>
-# Hi 👋 I'm Aman Qureshi
+
+Hi 👋 I'm Aman Qureshi
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=38B2AC&center=true&vCenter=true&width=600&lines=Frontend+Developer;React+%26+Next.js+Specialist;Building+Modern+%26+Responsive+Web;1%2B+Year+of+Professional+Experience" />
