@@ -1,5 +1,11 @@
+<p align="right">
+  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=00d2ff&style=flat-square" />
+</p>
+# Hi 👋 I'm Aman Qureshi
 
-# <p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=00d2ff&height=250&section=header&text=Aman%20Qureshi&fontSize=80&animation=fadeIn&fontAlignY=35" width="100%" /> </p>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=28&color=00F7FF&center=true&vCenter=true&width=800&lines=Frontend+Developer;React.js+Developer;TypeScript+Developer;TailwindCSS+Expert;Building+Modern+Web+Apps)](https://git.io/typing-svg)
+
+
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=38B2AC&center=true&vCenter=true&width=600&lines=Frontend+Developer;React+%26+Next.js+Specialist;Building+Modern+%26+Responsive+Web;1%2B+Year+of+Professional+Experience" />
@@ -94,13 +100,6 @@ Hello! I'm **Aman Qureshi**, a passionate **Frontend Developer** who loves turni
 
 ### 🗨️ Fun Fact
 > "I can debug code for hours, but I'll still Google 'how to center a div' just to be sure." 😂
-
-<p align="right">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=00d2ff&style=flat-square" />
-</p>
-# Hi 👋 I'm Aman Qureshi
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=28&color=00F7FF&center=true&vCenter=true&width=800&lines=Frontend+Developer;React.js+Developer;TypeScript+Developer;TailwindCSS+Expert;Building+Modern+Web+Apps)](https://git.io/typing-svg)
 
 ---
 
