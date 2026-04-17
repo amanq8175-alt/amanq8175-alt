@@ -1,4 +1,76 @@
-  Hi 👋 I'm Aman Qureshi
+# <p align="center"> <img src="https://capsule-render.vercel.app/api?type=soft&color=00d2ff&height=250&section=header&text=Developer%20Aman&fontSize=80&animation=twinkling&fontAlignY=35" width="100%" /> </p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=30&pause=1000&color=38B2AC&center=true&vCenter=true&width=600&lines=Senior+Frontend+Architect;1%2B+Year+Professional+Experience;Zustand+%2B+TanStack+Query+Expert;Building+Ultra-Premium+Web+Apps" />
+</p>
+
+---
+
+## 🚀 Executive Summary
+High-performance **Frontend Developer** with **1+ year of experience** in crafting scalable architectures. My expertise lies in bridging the gap between design and complex state management to deliver seamless user experiences.
+
+- 🎓 **Education:** Sindh University Graduate.
+- 🛠️ **Tech Stack:** Specialized in **React**, **Next.js**, **Zustand**, and **TanStack Query**.
+- ⚡ **Philosophy:** Clean code, high performance, and pixel-perfect responsiveness.
+
+---
+
+## 🛠️ Professional Technical Arsenal
+
+### 🔥 Core Technologies
+<p align="left">
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/React.js-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+</p>
+
+### ⚙️ State & Data Flow (Senior Level)
+<p align="left">
+  <img src="https://img.shields.io/badge/TanStack%20Query-FF4154?style=for-the-badge&logo=react-query&logoColor=white" />
+  <img src="https://img.shields.io/badge/Zustand-443E38?style=for-the-badge&logo=react&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+  <img src="https://img.shields.io/badge/Redux_Toolkit-764ABC?style=for-the-badge&logo=redux&logoColor=white" />
+</p>
+
+---
+
+## 📊 Performance & Contribution Metrics
+<p align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&border_radius=10&count_private=true" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&border_radius=10" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+## 🏆 Featured Case Studies
+
+> [!IMPORTANT]
+> **B2B Enterprise E-Commerce** > *Architected using **Next.js 14** and **TanStack Query**. Optimized data-fetching layers using **Zustand**, resulting in a 40% performance boost in client-side state transitions.* > [**Live Demo 🚀**](#) | [**Source Code 📂**](#)
+
+> [!TIP]
+> **Twitter Ecosystem Clone** > *Real-time event-driven UI built with **Firebase**. Implemented Optimistic UI updates with **TanStack Query** for a lag-free experience.* > [**Live Demo 🚀**](#) | [**Source Code 📂**](#)
+
+---
+
+## 🤝 Networking Hub
+<p align="left">
+  <a href="https://linkedin.com/in/YOUR_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://instagram.com/YOUR_INSTAGRAM"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+  <a href="mailto:your.email@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=00d2ff&height=100&section=footer&text=Code%20Is%20My%20Craft&fontSize=40" width="100%" />
+</p>
+ 
+ 
+ 
+ Hi 👋 I'm Aman Qureshi
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=38B2AC&center=true&vCenter=true&width=600&lines=Frontend+Developer;React+%26+Next.js+Specialist;Building+Modern+%26+Responsive+Web;1%2B+Year+of+Professional+Experience" />
