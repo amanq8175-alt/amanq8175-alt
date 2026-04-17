@@ -1,6 +1,6 @@
 <h1 align="center">👋 Hi, I'm Aman Qureshi</h1>
 
-<h3 align="center">🚀 Frontend Developer | 💻 React And Next.js  Enthusiast | </h3>
+<h3 align="center"> Frontend Developer | 💻 React And Next.js  Enthusiast | </h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Hi+I'm+Aman+Qureshi;Frontend+Developer;I+build+modern+responsive+web+apps;React+%7C+JavaScript+%7C+Tailwind+CSS;Clean+UI+%7C+Smooth+UX+%7C+Modern+Design" />
