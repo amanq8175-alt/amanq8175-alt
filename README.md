@@ -154,12 +154,6 @@ While most frontend devs know *how* to use React, I understand *why* it works th
 
 <br/>
  ```
-⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛
-⬛  AMAN.EXE  LOADED ⬛
-⬛  STATUS: BUILDING  ⬛
-⬛  MODE: BEAST MODE  ⬛
-⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛
- ```
 </td>
 </tr>
 </table>
