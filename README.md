@@ -80,7 +80,7 @@ const AmanQureshi: FrontendArchitect = {
   name          : "Aman Qureshi",
   alias         : "Developer Aman",
   pronouns      : "he/him",
-  location      : "Karachi, Sindh, Pakistan 🇵🇰",
+  location      : "Sindh, Pakistan 🇵🇰",
 
   // ── Education & Career ────────────────────────────────────────
   institution   : "University of Sindh — B.Sc. Computer Science",
@@ -153,15 +153,7 @@ While most frontend devs know *how* to use React, I understand *why* it works th
 <img src="https://github-readme-stats.vercel.app/api?username=developer-aman&show_icons=true&theme=tokyonight&border_radius=16&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=7C3AED&text_color=C9D1D9&rank_icon=github&include_all_commits=true&count_private=true" width="100%" />
 
 <br/>
-
-```
-   ⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛
-   ⬛  AMAN.EXE  LOADED ⬛
-   ⬛  STATUS: BUILDING  ⬛
-   ⬛  MODE: BEAST MODE  ⬛
-   ⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛
-```
-
+ ```
 </td>
 </tr>
 </table>
@@ -779,7 +771,7 @@ stash@{7}: WIP on webgl:         "Three.js & React Three Fiber"
   <sub>
     <b>Aman Qureshi</b> · Developer Aman · Frontend Architect · Sindh, Pakistan 🇵🇰<br/>
     Computer Science @ Sindh University · 1+ Year Professional Experience · Open to Work<br/><br/>
-    <i>⭐ Star repos you find useful · 🍴 Fork and build · 📬 DM for collabs</i>
+    <i>⭐ Star repos you find useful · 📬 DM for collabs</i>
   </sub>
 </div>
 
