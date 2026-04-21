@@ -36,7 +36,7 @@
   <img src="https://img.shields.io/badge/Experience-1%2B%20Year%20Pro-7c3aed?style=for-the-badge&logoColor=white" />
   <img src="https://img.shields.io/badge/Stack-Full%20Frontend-0ea5e9?style=for-the-badge&logoColor=white" />
   <img src="https://img.shields.io/badge/Status-Open%20to%20Work-22c55e?style=for-the-badge&logoColor=white" />
-  <img src="https://img.shields.io/badge/Location-Karachi%2C%20PK-f59e0b?style=for-the-badge&logo=googlemaps&logoColor=white" />
+  <img src="https://img.shields.io/badge/Location-Sindh %2C%20PK-f59e0b?style=for-the-badge&logo=googlemaps&logoColor=white" />
 </p>
 
 <!-- SOCIAL QUICK LINKS -->
