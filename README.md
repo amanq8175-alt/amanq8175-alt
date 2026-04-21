@@ -12,6 +12,14 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,30:302b63,70:24243e,100:1a1a2e&height=220&section=header&text=Aman%20Qureshi&fontSize=72&fontColor=ffffff&fontAlignY=36&fontAlign=50&desc=✦%20Developer%20Aman%20✦%20Frontend%20Architect%20✦%20UI%20Systems%20Engineer&descAlignY=57&descSize=17&descAlign=50&animation=fadeIn&stroke=A78BFA&strokeWidth=1" width="100%" />
 
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,30:302b63,70:24243e,100:1a1a2e&height=220&section=header&text=Aman%20Qureshi&fontSize=72&fontColor=ffffff&fontAlignY=36&fontAlign=50&desc=✦%20Developer%20Aman%20✦%20Frontend%20Architect%20✦%20UI%20Systems%20Engineer&descAlignY=57&descSize=17&descAlign=50&animation=fadeIn&stroke=A78BFA&strokeWidth=1" width="100%" />
+
+
+
+
+
+
 <br/>
 
 <!-- TYPING ANIMATION -->
