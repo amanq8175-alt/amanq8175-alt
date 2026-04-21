@@ -347,22 +347,6 @@ While most frontend devs know *how* to use React, I understand *why* it works th
 </p>
 
 ---
-
-### 🗄️ Backend, APIs & Database Touch Points
-
-> Frontend-first, but full-stack literate.
-
-<p align="left">
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
-  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" />
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white" />
-  <img src="https://img.shields.io/badge/Axios-5A29E4?style=for-the-badge&logo=axios&logoColor=white" />
-  <img src="https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=socketdotio&logoColor=white" />
-</p>
-
 ---
 
 ### ☁️ Deployment, Hosting & DevOps
@@ -793,7 +777,7 @@ stash@{7}: WIP on webgl:         "Three.js & React Three Fiber"
 
 <div align="center">
   <sub>
-    <b>Aman Qureshi</b> · Developer Aman · Frontend Architect · Karachi, Pakistan 🇵🇰<br/>
+    <b>Aman Qureshi</b> · Developer Aman · Frontend Architect · Sindh, Pakistan 🇵🇰<br/>
     Computer Science @ Sindh University · 1+ Year Professional Experience · Open to Work<br/><br/>
     <i>⭐ Star repos you find useful · 🍴 Fork and build · 📬 DM for collabs</i>
   </sub>
