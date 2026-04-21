@@ -13,14 +13,15 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,30:302b63,70:24243e,100:1a1a2e&height=220&section=header&text=Aman%20Qureshi&fontSize=72&fontColor=ffffff&fontAlignY=36&fontAlign=50&desc=✦%20Developer%20Aman%20✦%20Frontend%20Architect%20✦%20UI%20Systems%20Engineer&descAlignY=57&descSize=17&descAlign=50&animation=fadeIn&stroke=A78BFA&strokeWidth=1" width="100%" />
 
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,30:302b63,70:24243e,100:1a1a2e&height=220&section=header&text=Aman%20Qureshi&fontSize=72&fontColor=ffffff&fontAlignY=36&fontAlign=50&desc=✦%20Developer%20Aman%20✦%20Frontend%20Architect%20✦%20UI%20Systems%20Engineer&descAlignY=57&descSize=17&descAlign=50&animation=fadeIn&stroke=A78BFA&strokeWidth=1" width="100%" />
-
-
-
-
-
 
 <br/>
+
+<!-- TYPING ANIMATION -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&duration=2800&pause=900&color=A78BFA&center=true&vCenter=true&repeat=true&width=700&lines=Senior+Frontend+Architect;React+18+%26+Next.js+14+Expert;Zustand+%26+TanStack+Query+Master;UI+Systems+%26+Design+Engineer;TypeScript+%26+Performance+Obsessed;CS+Scholar+at+Sindh+University" alt="Typing SVG" />
+</p>
+
+
 
 <!-- TYPING ANIMATION -->
 <a href="https://git.io/typing-svg">
