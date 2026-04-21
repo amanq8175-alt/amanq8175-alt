@@ -799,35 +799,3 @@ stash@{7}: WIP on webgl:         "Three.js & React Three Fiber"
   </sub>
 </div>
 
-
-
-
-
-
-
-
-
-
-
-
-
-<div align="center">
-
-<!-- ANIMATED BANNER -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Aman%20Qureshi&fontSize=70&fontColor=ffffff&fontAlignY=38&desc=Developer%20Aman%20%E2%80%94%20Frontend%20Architect&descAlignY=58&descSize=20&animation=fadeIn" width="100%" />
-
-<!-- TYPING ANIMATION -->
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=Senior+Frontend+Architect;React+%26+Next.js+Expert;Zustand+%26+TanStack+Query+Specialist;CS+Scholar+%40+Sindh+University" alt="Typing SVG" />
-</a>
-
-<br/>
-
-<!-- PROFILE VIEWS & SOCIAL STATS -->
-<p>
-  <img src="https://komarev.com/ghpvc/?username=developer-aman&style=for-the-badge&color=7c3aed&label=PROFILE+VIEWS" />
-  <img src="https://img.shields.io/badge/Experience-1%2B%20Year-7c3aed?style=for-the-badge&logo=lightning&logoColor=white" />
-  <img src="https://img.shields.io/badge/Status-Open%20to%20Work-22c55e?style=for-the-badge&logo=checkmark&logoColor=white" />
-</p>
-
-</div>
