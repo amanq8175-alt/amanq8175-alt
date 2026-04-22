@@ -22,6 +22,12 @@
   <img src="header.svg" alt="Aman Qureshi - Frontend Developer" />
 </p>
 
+<p align="center">
+  <img src="./header.svg" width="900" />
+</p>
+
+
+
 
 <br/>
 
