@@ -22,6 +22,14 @@
 </p>
 
 
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&duration=2800&pause=900&color=A78BFA&center=true&vCenter=true&width=700&height=50&lines=🏗️+Senior+Frontend+Architect;⚛️+React+18+and+Next.js+Expert;🧠+Zustand+and+TanStack+Query;🎨+UI+Systems+and+Design+Engineer;📐+TypeScript+and+Performance;🎓+CS+Scholar+at+Sindh+University" alt="Typing SVG" />
+  </a>
+</div>
+
+
+
 
 <!-- TYPING ANIMATION -->
 <a href="https://git.io/typing-svg">
