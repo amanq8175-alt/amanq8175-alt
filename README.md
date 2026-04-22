@@ -611,6 +611,36 @@ While most frontend devs know *how* to use React, I understand *why* it works th
 
 
 
+## 📊 `stats --global` — GitHub Intelligence Dashboard
+
+<div align="center">
+
+<br/>
+
+<img src="https://github-readme-stats.vercel.app/api?username=developer-aman&show_icons=true&theme=tokyonight&border_radius=16&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=7C3AED&text_color=C9D1D9&rank_icon=github&include_all_commits=true&count_private=true&custom_title=Aman%20Qureshi's%20GitHub%20Stats" height="185" />
+&nbsp;&nbsp;
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=developer-aman&layout=compact&theme=tokyonight&border_radius=16&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=C9D1D9&langs_count=10&size_weight=0.5&count_weight=0.5&custom_title=Most%20Used%20Languages" height="185" />
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/Full_Stack_Journey-Since_2025-7C3AED?style=for-the-badge&logo=github&logoColor=white" />
+
+<br/><br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=developer-aman&theme=tokyonight&border_radius=16&hide_border=true&background=0D1117&stroke=7C3AED&ring=A78BFA&fire=FF6B6B&currStreakLabel=A78BFA&hide_dates=true" height="185" />
+
+<br/><br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=developer-aman&theme=tokyo-night&bg_color=0D1117&color=A78BFA&line=7C3AED&point=FF6B6B&area=true&area_color=7C3AED&hide_border=true&radius=8&custom_title=Aman%20Qureshi's%20Contribution%20Timeline" width="100%" />
+
+</div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+---
+
+
+
 
 
 
