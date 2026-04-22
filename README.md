@@ -14,6 +14,88 @@
 
 
 
+<svg width="900" height="120" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="g1" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#00C9FF">
+        <animate attributeName="stop-color" values="#00C9FF;#a855f7;#ec4899;#f97316;#00C9FF" dur="4s" repeatCount="indefinite"/>
+      </stop>
+      <stop offset="50%" stop-color="#a855f7">
+        <animate attributeName="stop-color" values="#a855f7;#ec4899;#f97316;#00C9FF;#a855f7" dur="4s" repeatCount="indefinite"/>
+      </stop>
+      <stop offset="100%" stop-color="#ec4899">
+        <animate attributeName="stop-color" values="#ec4899;#f97316;#00C9FF;#a855f7;#ec4899" dur="4s" repeatCount="indefinite"/>
+      </stop>
+    </linearGradient>
+    <linearGradient id="g2" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#38bdf8">
+        <animate attributeName="stop-color" values="#38bdf8;#818cf8;#f472b6;#fb923c;#38bdf8" dur="4s" repeatCount="indefinite"/>
+      </stop>
+      <stop offset="100%" stop-color="#818cf8">
+        <animate attributeName="stop-color" values="#818cf8;#f472b6;#fb923c;#38bdf8;#818cf8" dur="4s" repeatCount="indefinite"/>
+      </stop>
+    </linearGradient>
+    <mask id="text-mask-1">
+      <rect width="900" height="120" fill="black"/>
+      <text x="50%" y="58" dominant-baseline="middle" text-anchor="middle"
+        font-family="'Courier New', monospace" font-size="38" font-weight="700" fill="white"
+        letter-spacing="2">
+        <tspan>Aman Qureshi</tspan>
+      </text>
+    </mask>
+    <mask id="text-mask-2">
+      <rect width="900" height="120" fill="black"/>
+      <text x="50%" y="95" dominant-baseline="middle" text-anchor="middle"
+        font-family="'Courier New', monospace" font-size="17" font-weight="400" fill="white"
+        letter-spacing="4">
+        <tspan>Frontend Developer</tspan>
+      </text>
+    </mask>
+    <style>
+      .cursor {
+        animation: blink 0.75s step-end infinite;
+      }
+      @keyframes blink {
+        0%, 100% { opacity: 1; }
+        50% { opacity: 0; }
+      }
+      .line1 {
+        font-family: 'Courier New', monospace;
+        font-size: 38px;
+        font-weight: 700;
+        letter-spacing: 2px;
+      }
+      .line2 {
+        font-family: 'Courier New', monospace;
+        font-size: 17px;
+        letter-spacing: 4px;
+      }
+    </style>
+  </defs>
+
+  <rect width="900" height="120" fill="#0d1117" rx="10"/>
+
+  <!-- Subtle grid lines -->
+  <line x1="0" y1="60" x2="900" y2="60" stroke="#ffffff08" stroke-width="1"/>
+  <line x1="450" y1="0" x2="450" y2="120" stroke="#ffffff08" stroke-width="1"/>
+
+  <!-- Animated gradient fill for main title -->
+  <rect width="900" height="120" fill="url(#g1)" mask="url(#text-mask-1)" rx="10"/>
+
+  <!-- Animated gradient fill for subtitle -->
+  <rect width="900" height="120" fill="url(#g2)" mask="url(#text-mask-2)" rx="10" opacity="0.85"/>
+
+  <!-- Typing cursor after title -->
+  <text x="50%" y="58" dominant-baseline="middle" text-anchor="middle"
+    font-family="'Courier New', monospace" font-size="38" font-weight="700"
+    letter-spacing="2" fill="transparent">
+    Aman Qureshi
+    <tspan class="cursor" fill="#a855f7" dx="4" dy="0">|</tspan>
+  </text>
+
+</svg>
+
+
 <br/>
 
 <!-- TYPING ANIMATION -->
