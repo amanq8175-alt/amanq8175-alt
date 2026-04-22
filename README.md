@@ -593,6 +593,10 @@ While most frontend devs know *how* to use React, I understand *why* it works th
 
 <br/><br/>
 
+<img src="https://img.shields.io/badge/Engineering%20Journey-Since%202024-7C3AED?style=for-the-badge&logo=github&logoColor=white" />
+
+<br/>
+
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=developer-aman&theme=tokyonight&border_radius=16&hide_border=true&background=0D1117&stroke=7C3AED&ring=A78BFA&fire=FF6B6B&currStreakLabel=A78BFA&sideLabels=A78BFA&dates=C9D1D9&sideNums=ffffff&currStreakNum=ffffff&hide_dates=true" height="185" />
 
 <br/><br/>
