@@ -150,7 +150,7 @@ While most frontend devs know *how* to use React, I understand *why* it works th
 </td>
 <td width="45%" align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=aman-qureshi&show_icons=true&theme=tokyonight&border_radius=16&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=7C3AED&text_color=C9D1D9&rank_icon=github&include_all_commits=true&count_private=true&custom_title=Aman%20Qureshi's%20GitHub%20Stats" width="100%" />
+<img src="https://github-readme-stats.vercel.app/api?username=developer-aman&show_icons=true&theme=tokyonight&border_radius=16&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=7C3AED&text_color=C9D1D9&rank_icon=github&include_all_commits=true&count_private=true&custom_title=Aman%20Qureshi's%20GitHub%20Stats" width="100%" />
 
 <br/>
  ```
