@@ -581,7 +581,6 @@ While most frontend devs know *how* to use React, I understand *why* it works th
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 ---
-
 ## 📊 `stats --global` — GitHub Intelligence Dashboard
 
 <div align="center">
@@ -596,11 +595,7 @@ While most frontend devs know *how* to use React, I understand *why* it works th
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=developer-aman&theme=tokyonight&border_radius=16&hide_border=true&background=0D1117&stroke=7C3AED&ring=A78BFA&fire=FF6B6B&currStreakLabel=A78BFA&sideLabels=A78BFA&dates=C9D1D9&sideNums=ffffff&currStreakNum=ffffff&hide_dates=true" height="185" />
 
-<p align="center">
-  <b>Active Contributions: Jan 2025 - Present</b>
-</p>
-
-<br/>
+<br/><br/>
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=developer-aman&theme=tokyo-night&bg_color=0D1117&color=A78BFA&line=7C3AED&point=FF6B6B&area=true&area_color=7C3AED&hide_border=true&radius=8&custom_title=Aman%20Qureshi's%20Contribution%20Timeline" width="100%" />
 
