@@ -678,18 +678,6 @@ stash@{4}: WIP on performance:   "Core Web Vitals & Next.js Bundle Optimization"
 stash@{5}: WIP on animations:    "Advanced GSAP ScrollTrigger & SVG Morphing"
 stash@{6}: WIP on ai-tools:      "Integrating AI APIs into React Components"
 stash@{7}: WIP on webgl:         "Three.js & React Three Fiber (R3F)"
-
-## 📚 `git stash list` — Currently Learning
-
-```bash
-stash@{0}: WIP on system-design: "Scalable Frontend Architecture Patterns"
-stash@{1}: WIP on backend:       "Node.js + Express + Prisma ORM"
-stash@{2}: WIP on testing:       "Vitest + Testing Library Best Practices"
-stash@{3}: WIP on devops:        "Docker + GitHub Actions CI/CD Pipelines"
-stash@{4}: WIP on performance:   "Core Web Vitals & Bundle Optimization"
-stash@{5}: WIP on animations:    "Advanced GSAP ScrollTrigger Techniques"
-stash@{6}: WIP on ai-tools:      "Integrating AI APIs into Frontend Products"
-stash@{7}: WIP on webgl:         "Three.js & React Three Fiber"
 ```
 
 ---
