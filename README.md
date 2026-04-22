@@ -587,10 +587,6 @@ While most frontend devs know *how* to use React, I understand *why* it works th
 ---
 
 
-
-
-
-
 ## 🏅 `ls trophies/` — GitHub Achievements
 
 <div align="center">
@@ -671,6 +667,17 @@ Perfect is the enemy of deployed. Iterate in production. Move fast, break nothin
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 ---
+
+## 📚 git stash list — Currently Learning
+
+stash@{0}: WIP on system-design: "Scalable Frontend Architecture & State Patterns"
+stash@{1}: WIP on ui-ux:          "Advanced Micro-Interactions & Framer Motion"
+stash@{2}: WIP on testing:       "Vitest + Playwright E2E Testing Suite"
+stash@{3}: WIP on typescript:    "Advanced Type-Level Engineering & Generics"
+stash@{4}: WIP on performance:   "Core Web Vitals & Next.js Bundle Optimization"
+stash@{5}: WIP on animations:    "Advanced GSAP ScrollTrigger & SVG Morphing"
+stash@{6}: WIP on ai-tools:      "Integrating AI APIs into React Components"
+stash@{7}: WIP on webgl:         "Three.js & React Three Fiber (R3F)"
 
 ## 📚 `git stash list` — Currently Learning
 
