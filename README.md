@@ -668,16 +668,15 @@ Perfect is the enemy of deployed. Iterate in production. Move fast, break nothin
 
 ---
 
-## 📚 git stash list — Currently Learning
+## 📚 `git stash list` — Currently Learning
 
-stash@{0}: WIP on system-design: "Scalable Frontend Architecture & State Patterns"
-stash@{1}: WIP on ui-ux:          "Advanced Micro-Interactions & Framer Motion"
-stash@{2}: WIP on testing:       "Vitest + Playwright E2E Testing Suite"
-stash@{3}: WIP on typescript:    "Advanced Type-Level Engineering & Generics"
-stash@{4}: WIP on performance:   "Core Web Vitals & Next.js Bundle Optimization"
-stash@{5}: WIP on animations:    "Advanced GSAP ScrollTrigger & SVG Morphing"
-stash@{6}: WIP on ai-tools:      "Integrating AI APIs into React Components"
-stash@{7}: WIP on webgl:         "Three.js & React Three Fiber (R3F)"
+```bash
+stash@{0}: WIP on system-design: "Scalable Frontend Architecture Patterns"
+stash@{1}: WIP on testing:       "Vitest + Testing Library Best Practices""
+stash@{2}: WIP on performance:   "Core Web Vitals & Bundle Optimization"
+stash@{3}: WIP on animations:    "Advanced GSAP ScrollTrigger Techniques"
+stash@{4}: WIP on ai-tools:      "Integrating AI APIs into Frontend Products"
+stash@{5}: WIP on webgl:         "Three.js & React Three Fiber"
 ```
 
 ---
