@@ -51,8 +51,7 @@
     <img src="https://img.shields.io/badge/Gmail-Mail%20Me-EA4335?style=flat-square&logo=gmail&logoColor=white" />
   </a>
   <a href="https://github.com/developer-aman">
-    <img src="https://img.shields.io/badge/GitHub-@developer--aman-181717?style=flat-square&logo=github&logoColor=white" />
-  </a>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&label=developer--aman" />
 </p>
 
 </div>
@@ -721,14 +720,9 @@ stash@{7}: WIP on webgl:         "Three.js & React Three Fiber"
   <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&label=@amanqureshi" />
 </a>
 &nbsp;
-<a href="mailto:amanq8175@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white&label=amanq8175" />
-</a>
-&nbsp;
-<a href="https://github.com/developer-aman">
+  <a href="https://github.com/developer-aman">
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&label=developer--aman" />
-</a>
-
+&nbsp;
 <br/><br/>
 
 
