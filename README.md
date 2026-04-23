@@ -41,16 +41,15 @@
 
 <!-- SOCIAL QUICK LINKS -->
 <p>
-  <a href="https://www.linkedin.com/in/developer-aman-qureshi-8a62073ab//in/developer-aman">
+  <a href="https://www.linkedin.com/in/developer-aman-qureshi-8a62073ab/">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://www.instagram.com/amanqureshi7263//developer.aman">
+  <a href="https://www.instagram.com/amanqureshi7263/">
     <img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=flat-square&logo=instagram&logoColor=white" />
   </a>
-  <a href="amanq8175@gmail.com">
+  <a href="mailto:amanq8175@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-Mail%20Me-EA4335?style=flat-square&logo=gmail&logoColor=white" />
   </a>
-  
   <a href="https://github.com/developer-aman">
     <img src="https://img.shields.io/badge/GitHub-@developer--aman-181717?style=flat-square&logo=github&logoColor=white" />
   </a>
@@ -714,16 +713,16 @@ stash@{7}: WIP on webgl:         "Three.js & React Three Fiber"
 
 <br/>
 
-<a href="https://linkedin.com/in/developer-aman">
+<a href="https://www.linkedin.com/in/developer-aman-qureshi-8a62073ab/">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&label=Developer+Aman" />
 </a>
 &nbsp;
-<a href="https://instagram.com/developer.aman">
-  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&label=@developer.aman" />
+<a href="https://www.instagram.com/amanqureshi7263/">
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&label=@amanqureshi" />
 </a>
 &nbsp;
-<a href="mailto:amanqureshi.dev@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white&label=amanqureshi.dev" />
+<a href="mailto:amanq8175@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white&label=amanq8175" />
 </a>
 &nbsp;
 <a href="https://github.com/developer-aman">
