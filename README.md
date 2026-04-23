@@ -5,7 +5,7 @@
 <!-- ██║  ██║███████╗██║  ██║██████╔╝███████╗██║  ██║    ██████╔╝██║  ██║██║ ╚████║██║ ╚████║███████╗██║  ██║ -->
 
 <div align="center">
-
+  
 <!-- ═══════════════════════════════════════════════════════════ -->
 <!--                    ANIMATED HEADER BANNER                   -->
 <!-- ═══════════════════════════════════════════════════════════ -->
@@ -17,7 +17,6 @@
   <a href="https://github.com/amanq8175-alt">
     <img src="https://raw.githubusercontent.com/amanq8175-alt/header.svg/refs/heads/main/header.svg" alt="Aman Qureshi Banner" width="100%">
 
-    
   </a>
 </p>
 
