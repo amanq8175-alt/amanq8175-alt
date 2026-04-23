@@ -28,12 +28,6 @@
 </p>
 
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=2800&pause=900&color=A78BFA&center=true&vCenter=true&width=600&lines=Senior+Frontend+Architect;React+18+%26+Next.js+14+Expert;Zustand+%26+TanStack+Query+Master;UI+Systems+%26+Design+Engineer;TypeScript+%26+Performance+Obsessed;CS+Scholar+at+Sindh+University" />
-</p>
-
-
-
 <br/><br/>
 
 <!-- PROFILE METRICS ROW -->
